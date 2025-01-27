@@ -1,0 +1,5 @@
+Title: Impact analysis of recovery cases due to COVID-19 outbreak using deep learning model
+
+Abstract: The present world is badly affected by novel coronavirus (COVID-19). Using medical kits to identify the coronavirus affected persons are very slow. What happens in the next, nobody knows. The world is facing erratic problem and don’t know what will happen in near future. This paper is trying to make prognosis of the coronavirus recovery cases using LSTM(Long Short Term Memory). This work exploited data of 258 regions, their latitude and longitude and the number of death of 403 days ranging from 22-01-2020 to 27-02-2021. Specifically, advanced deep learning-based algorithms known as the LSTM, play a great effect on extracting highly essential features for time series data (TSD) analysis.There are lots of methods which already use to analyze propagation prediction. The main task of this paper culminates in analyzing the spreading of Coronavirus across worldwide recovery cases using LSTM deep learning-based architectures.
+
+paper   link: https://link.springer.com/article/10.1007/s11042-023-14837-9
